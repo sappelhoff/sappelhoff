@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently pursuing my PhD in cognitive neuroscience at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
+I am a postdoctoral researcher in cognitive neuroscience at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
 
 Here are a few links where you can learn more about me.
 
