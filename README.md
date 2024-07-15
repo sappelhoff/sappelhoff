@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a postdoctoral researcher in cognitive neuroscience at the [Max Planck Institute for Human Development](https://www.mpib-berlin.mpg.de/en) in Berlin.
+I am a Senior Biosignal Data Analyst at [Zander Labs](https://zanderlabs.com/).
 
-You can learn more about me on [my personal website](https://stefanappelhoff.com/)!
+You can learn more about me on [my personal website](https://stefanappelhoff.com/).
 
-Here are a few open source projects that I work on (see more under "pinned repositories" below):
+Here are a few open source projects that I work on in my free time (see more under "pinned repositories" below):
 
 - The Brain Imaging Data Structure (BIDS)
     - [BIDS Specification](bids-specification.readthedocs.io/)
