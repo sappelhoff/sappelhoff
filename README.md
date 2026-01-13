@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Biosignal Data Analyst at [Zander Labs](https://zanderlabs.com/).
+I am the lead of the Biosignal Data Analysis team at [Zander Labs](https://zanderlabs.com/).
 
 You can learn more about me on [my personal website](https://stefanappelhoff.com/).
 
